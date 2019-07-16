@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: My name is Majiye. It means "Be wise"
-image: /img/56328808_1358871427583948_616922943757026412_n.jpg
+image: /img/maj.png
 heading: Great coffee with a conscience
 subheading: I do creative things using a blend of technical skills and an artistic eye.
 mainpitch:
