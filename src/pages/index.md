@@ -2,20 +2,20 @@
 templateKey: index-page
 title: My name is Majiye. It means "Be wise"
 image: /img/maj.png
-heading: Great coffee with a conscience
-subheading: I do creative things using a blend of technical skills and an artistic eye.
+heading: My work
+subheading: I do creative things using a blend of technical skills and an artistic eye
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  title: Why me?
+  description: >-
+    I'm a Nigerian-born, Los Angeles-based filmmaker. I discovered filmmaking
+    was what I wanted to do right from high school when I was the filmmaker and
+    photographer of the Entertainment Club of my high school, which I was part
+    of. 
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  I work in Fashion, editorial, portrait, commercial/industrial, fine arts and
+  street. I use a blend of technical skills and an artistic eye to take pictures
+  of people, places, landscapes, food, name it. I can work as a fine artist,
+  wedding and event photographer, or in whatever capacity I am needed.
 intro:
   blurbs:
     - image: /img/coffee.png
